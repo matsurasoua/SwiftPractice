@@ -18,3 +18,4 @@ case .triangle:
 }
 
 // テスト
+//2
