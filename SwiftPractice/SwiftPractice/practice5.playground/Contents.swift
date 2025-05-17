@@ -16,3 +16,5 @@ case .square:
 case .triangle:
     print("Triangle")
 }
+
+// テスト
